@@ -4,3 +4,9 @@
                 descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink='https://github.com/guilhermeterenciani'
             />
+<Estudante 
+            nome="Victor Hugo Da Costa Bueno"
+            imagem="https://github.com/victor17y.png"
+            descricao='estudante do ifms nas materias '
+            githubLink='href="https://github.com/victor17y'
+            />
